@@ -11,9 +11,9 @@ on:
 
 
      steps:
-       - name: 'Testing Github action'
-         run: pwd
+       - name: 'copy all'
+         run: ls
 
 
-       - name: 'Testing Printing'
-         run: echo Rahma
+      #  - name: 'Testing Printing'
+      #    run: echo Rahma
